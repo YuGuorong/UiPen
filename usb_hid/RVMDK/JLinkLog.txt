@@ -1,0 +1,28 @@
+
+T1190 000:782 SEGGER J-Link V4.15n (beta) Log File (0001ms, 0780ms total)
+T1190 000:782 DLL Compiled: Jun 18 2010 19:55:09 (0001ms, 0780ms total)
+T1190 000:782 Logging started @ 2014-06-24 16:39 (0001ms, 0780ms total)
+T1190 000:783 JLINK_SetWarnOutHandler(...) (0000ms, 0781ms total)
+T1190 000:783 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N: 799713843
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL  returns O.K. (0076ms, 0781ms total)
+T1190 000:859 JLINK_SetErrorOutHandler(...) (0000ms, 0857ms total)
+T1190 000:859 JLINK_ExecCommand("ProjectFile = "C:\Documents and Settings\Administrator\×ÀÃæ\usb_hid\RVMDK\JLinkSettings.ini"", ...)  returns 0x00 (0000ms, 0857ms total)
+T1190 000:860 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x00 (0000ms, 0857ms total)
+T1190 000:861 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0002ms, 0857ms total)
+T1190 000:864 JLINK_SetSpeed(2000) (0001ms, 0859ms total)
+T1190 000:865 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0860ms total)
+T1190 000:865 JLINK_GetDLLVersion()  returns 41514 (0000ms, 0860ms total)
+T1190 000:865 JLINK_GetFirmwareString(...) (0000ms, 0860ms total)
+T1190 000:865 JLINK_GetDLLVersion()  returns 41514 (0000ms, 0860ms total)
+T1190 000:865 JLINK_GetCompileDateTime() (0000ms, 0860ms total)
+T1190 000:865 JLINK_GetFirmwareString(...) (0000ms, 0860ms total)
+T1190 000:865 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0860ms total)
+T1190 000:865 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 0860ms total)
+T1190 000:865 JLINK_Reset() >0x108 TIF>Found SWD-DP with ID 0x1BA01477 >0x33 TIF> >0x33 TIF> >0x35 TIF> >0x33 TIF> >0x33 TIF> >0x9B TIF> >0x9B TIF> >0x1D7 TIF> >0x13A TIF> >0x1D7 TIF> >0x13A TIF>TPIU fitted. >0x13A TIF>ETM fitted. >0x13A TIF>  FPUnit: 6 code (BP) slots and 2 literal slots >0x13A TIF> >0x13A TIF> >0x1D7 TIF> >0x1D7 TIF> >0x20C TIF> >0x13A TIF> >0x13A TIF> >0x1D7 TIF> >0x1D7 TIF> >0x13A TIF> >0x13A TIF> >0x11E4 TIF> >0x1D7 TIF> >0x13A TIF> >0x11E4 TIF> (0048ms, 0860ms total)
+T1190 000:913 JLINK_JTAG_StoreRaw(..., 0x108 Bits)  returns 0x00 (0000ms, 0908ms total)
+T1190 000:913 JLINK_JTAG_GetU32(BitPos = 227) >0x108 TIF>  returns 0x1BA01477 (0001ms, 0908ms total)
+T1190 000:917 JLINK_GetCompileDateTime() (0000ms, 0909ms total)
+T1190 355:262 JLINK_Close() (0038ms, 0909ms total)
